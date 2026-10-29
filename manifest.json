@@ -1,0 +1,11 @@
+{
+  "name": "CCI পাখি ভ্যান ম্যানেজমেন্ট",
+  "short_name": "পাখি ভ্যান",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#14532d",
+  "description": "ভ্যান, চালক/প্যাডলার, ছবি এবং দৈনিক ভাড়া আদায়ের হিসাব",
+  "icons": []
+}
